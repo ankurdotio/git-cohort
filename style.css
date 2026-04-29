@@ -13,9 +13,6 @@ body {
 
 button{
     padding: 1rem 3rem;
-    border-radius: 1rem;
-
-    border: dashed 0.2rem black;
-    background-color: green;
-    color: white;
+    background-color: yellow;
+    color: black;
 }
