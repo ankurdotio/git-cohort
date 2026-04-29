@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #181818;
+}
+
+button{
+    padding: 1rem 3rem;
+    border-radius: 1rem;
+
+
+    background-color: blue;
+    color: white;
+}
