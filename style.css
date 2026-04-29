@@ -13,9 +13,6 @@ body {
 
 button{
     padding: 1rem 3rem;
-    border-radius: 1rem;
-
-    border: dotted 0.2rem rgb(255, 255, 255);
-    background-color: rgb(217, 78, 103);
-    color: rgb(5, 5, 5);
+    background-color: yellow;
+    color: black;
 }
