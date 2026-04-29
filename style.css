@@ -15,4 +15,9 @@ button{
     padding: 1rem 3rem;
     background-color: yellow;
     color: black;
+    border-radius: 10px;
+}
+
+h2{
+    color: yellow;
 }
